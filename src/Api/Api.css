@@ -1,0 +1,12 @@
+button{    
+    margin:0;
+    padding: 0;
+    vertical-align: none;
+    text-align: center;
+}
+
+.btn{
+margin-right:0;
+width:40px;
+font-size:15px
+}
